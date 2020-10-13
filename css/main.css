@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(251, 237, 217);
+    overflow: hidden;
+}
+.block{
+    position: absolute;
+    top: 30%;
+    width: 15%;
+    height: 20%;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    border: rgb(61, 61, 61) solid 3px;
+    border-radius: 15%;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+}
+.head{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    background-color: rgba(255, 97, 97, 0.956);
+    width: 100%;
+    border-bottom: gray solid 4px;
+}
